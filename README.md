@@ -12,8 +12,8 @@ The main focus of the game is to stop the virus. The player is a vaccine which s
 
 Commands
 ___________________________
-The Basic Commands of the Game is A to move left and D to move right
-For shooting, use the mouse to aim and shoot the life bullets against the virus
+The Basic Commands of the Game is A to move left and D to move right.
+For shooting, use the mouse to aim and shoot the life bullets against the virus.
 
 
 
