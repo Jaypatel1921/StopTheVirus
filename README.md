@@ -25,4 +25,4 @@ Make sure all files are downloaded when running the game. This is located in the
 
 Future Plans
 _________________________
-We hope to potentially add a feature to allow players to choose their player skin to play with, as well as a setting/options feature to allow the player to change their setting or keybinds as they wish. We also are working to implement levels to make the game harder, as well as hope to make the game run smoother,
+We hope to potentially add a feature to allow players to choose their player skin to play with, as well as a setting/options feature to allow the player to change their setting or keybinds as they wish. We also are working to implement levels to make the game harder, as well as hope to make the game run smoother.
